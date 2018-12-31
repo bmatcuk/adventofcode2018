@@ -1,4 +1,4 @@
-defmodule AoC.Day7.Part2 do
+defmodule AoC.Day7.Part1 do
   @moduledoc """
   --- Part Two ---
   As you're about to begin construction, four of the Elves offer to help. "The
@@ -108,4 +108,4 @@ defmodule AoC.Day7.Part2 do
   end
 end
 
-IO.puts AoC.Day7.Part2.run 'input.txt'
+IO.puts AoC.Day7.Part1.run 'input.txt'
